@@ -1,1 +1,1 @@
-Adversarial AI in fashion: Computer vision project aimed at generating trained patches to mislead mainstream CV models.
+Adversarial AI in fashion: Computer vision project aimed at generating trained patches to mislead mainstream CV models. This project is worked on by a team of 4 under the mentorship of Dr. Brinnae Bent at Duke University.
